@@ -1,0 +1,32 @@
+{
+  "name": "@apiverve/duckduckgosearch",
+  "version": "1.0.0",
+  "description": "DuckDuckGo Search is a simple tool for searching DuckDuckGo. It returns the search results from DuckDuckGo.",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/apiverve/duckduckgosearch-API.git"
+  },
+  "keywords": [
+    "duckduckgo search"," duckduckgo search api"," duckduckgo search tool"," duckduckgo search software"," duckduckgo search service"," duckduckgo search library"," duckduckgo search sdk"," duckduckgo search code"," duckduckgo search script"," duckduckgo search program"," duckduckgo search application"," duckduckgo search app"," duckduckgo search utility"," duckduckgo search helper"," duckduckgo search helper tool"," duckduckgo search helper software"," duckduckgo search helper service"," duckduckgo search helper library"," duckduckgo search helper sdk"," duckduckgo search helper code"," duckduckgo search helper script"," duckduckgo search helper program"," duckduckgo search helper application"," duckduckgo search helper app"," duckduckgo search helper utility"," duckduckgo search helper"
+  ],
+  "author": "APIVerve <hello@apiverve.com> (http://apiverve.com/)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/apiverve/duckduckgosearch-API/issues"
+  },
+  "homepage": "https://github.com/apiverve/duckduckgosearch-API",
+  "devDependencies": {
+    "mocha": "^2.3.4",
+    "chai": "^3.4.1",
+    "dotenv": "^2.0.0"
+  },
+  "dependencies": {
+    "node-fetch": "3.3.2",
+    "promise": "^7.1.1",
+    "request": "^2.69.0"
+  }
+}
